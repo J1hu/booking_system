@@ -23,7 +23,6 @@
 </style>
 </head>
 <body>
-  // sample navigation
   <nav class="flex">
     <div><a href="{{ route('bookings.about') }}">About page</a></div>
     <a href="route"></a>
